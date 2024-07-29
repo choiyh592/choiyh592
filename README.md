@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @choiyh592
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there!
 
-<!---
-choiyh592/choiyh592 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+WIP cuz im lazy
+
+Military Service : 
+**Trainee** 2024/05/13 - 2024/06/18 (Army Recruit Training Center)
+**Private** 2024/06/19 - 2024/07/31 (Army Intelligence School >> 21st Division)
+**Private First Class** 2024/08/01 - 2025/01/31 (21st Division, MOS : Intelligence)
+**Corporal** 2025/02/01 - 2025/07/31 (21st Division, MOS : Intelligence)
+**Sergeant** 2025/08/01 - 2025/11/12 (21st Division, MOS : Intelligence)
